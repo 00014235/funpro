@@ -1,0 +1,12 @@
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\bin\Debug\University.mdb
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\bin\Debug\Toxirjohn.exe.config
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\bin\Debug\Toxirjohn.exe
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\bin\Debug\Toxirjohn.pdb
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\obj\Debug\Toxirjohn.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\obj\Debug\Toxirjohn.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\obj\Debug\Toxirjohn.Form1.resources
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\obj\Debug\Toxirjohn.Properties.Resources.resources
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\obj\Debug\Toxirjohn.csproj.GenerateResource.cache
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\obj\Debug\Toxirjohn.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\obj\Debug\Toxirjohn.exe
+C:\Users\OMEN\Desktop\toxa\funpro\Toxirjohn\Toxirjohn\obj\Debug\Toxirjohn.pdb
